@@ -4,7 +4,7 @@
 
 > A production-ready, full-stack e-commerce web application inspired by the clean aesthetics of Apple, the scale of Amazon, and modern SaaS design principles.
 
-### 🔗 [Live Demo](https://e-commerce-web-application-frontend.vercel.app) &nbsp;•&nbsp; [Backend API](https://e-commerce-web-application-backend.onrender.com)
+### 🔗 *(Live Demo coming soon! See deployment instructions below)*
 
 ![Tech Stack](https://img.shields.io/badge/Frontend-React%20%2B%20Tailwind%20CSS-blue?style=for-the-badge)
 ![Backend](https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-green?style=for-the-badge)
